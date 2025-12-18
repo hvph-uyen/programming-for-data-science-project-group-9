@@ -1,4 +1,4 @@
-# programming-for-data-science-project-group-9
+# CSC17104 FINAL PROJECT - GROUP 9
 
 ## Shark Incident Analysis in Australia
 

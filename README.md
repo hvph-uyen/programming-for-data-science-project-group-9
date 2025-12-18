@@ -70,17 +70,16 @@ project/
 |   |   └── SharkIncident_processed.csv
 │   └── raw/
 |       └── SharkIncident.csv
-|
+├── .gitignore
 ├── source.ipynb
 ├── requirements.txt
 └── README.md
 ```
 
 ### 6. How to run
-- Tải và giải nén file `Group_09.zip`
-- Vào thư mục programming-for-data-science-project-group-9
-- pip install -r requirements.txt
-- Run notebook: `jupyter notebook source.ipynb`
+- Clone project từ repo này
+- Chạy terminal: `pip install -r requirements.txt`
+- Chạy notebook: `jupyter notebook source.ipynb`
 
 ### 7. Dependencies List
 Các thư viện được sử dụng:

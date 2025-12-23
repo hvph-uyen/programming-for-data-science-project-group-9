@@ -42,9 +42,9 @@ Phân tích các sự kiện của tấn công cá mập tại Úc nhằm tìm r
 
     Mục đích: xác định xem yếu tố rủi ro đến từ hành vi chủ động khiêu khích của con người hay do ngẫu nhiên, và liệu có sự khác biệt về giới trong hành vi này
 
-5. Liệu độ tuổi và giới tính của nạn nhân có ảnh hưởng đến khả năng bị tấn công bởi các loài cá mập cụ thể không?
+5. Những yếu tố nào có ảnh hưởng tương đối lớn hơn đến mức độ nghiêm trọng của các vụ tấn công cá mập tại Úc?
 
-    Mục đích: tìm hiểu xem liệu các loài cá mập khác nhau có xu hướng "chọn" mục tiêu dựa trên kích thước (liên quan đến tuổi) hoặc hành vi đặc thù của nhóm nhân khẩu học hay không
+    Mục đích: xác định các yếu tố (liên quan đến cá mập, hành vi con người và đặc điểm nạn nhân) có ảnh hưởng lớn nhất đến khả năng gây thương tích nghiêm trọng hoặc tử vong trong các vụ tấn công cá mập.
 
 6. Có thể phân nhóm các vụ tấn công thành các mẫu hình (patterns) riêng biệt dựa trên sự kết hợp của nhiều yếu tố (như vị trí, độ sâu, hoạt động, loài cá mập, ...) không?
 
